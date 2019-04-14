@@ -1,0 +1,20 @@
+[08-Oct-2018 10:38:31 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/jlodaindia/public_html/jloda/user_profile.php on line 648
+[08-Oct-2018 10:39:42 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/jlodaindia/public_html/jloda/user_profile.php on line 648
+[08-Oct-2018 10:45:23 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/jlodaindia/public_html/jloda/user_profile.php on line 648
+[08-Oct-2018 10:47:30 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/jlodaindia/public_html/jloda/user_profile.php on line 648
+[08-Oct-2018 10:49:39 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/jlodaindia/public_html/jloda/user_profile.php on line 648
+[08-Oct-2018 10:53:05 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/jlodaindia/public_html/jloda/user_profile.php on line 648
+[08-Oct-2018 10:56:40 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/jlodaindia/public_html/jloda/user_profile.php on line 648
+[08-Oct-2018 11:00:29 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/jlodaindia/public_html/jloda/user_profile.php on line 648
+[08-Oct-2018 11:02:20 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/jlodaindia/public_html/jloda/user_profile.php on line 649
+[08-Oct-2018 11:03:19 Asia/Kolkata] PHP Notice:  Undefined index: userimage in /home/jlodaindia/public_html/jloda/user_profile.php on line 655
+[08-Oct-2018 11:03:19 Asia/Kolkata] PHP Notice:  Undefined index: userimage in /home/jlodaindia/public_html/jloda/user_profile.php on line 655
+[08-Oct-2018 11:03:19 Asia/Kolkata] PHP Notice:  Undefined index: userphone in /home/jlodaindia/public_html/jloda/user_profile.php on line 734
+[08-Oct-2018 11:03:28 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/jlodaindia/public_html/jloda/edit_user_profile.php on line 683
+[08-Oct-2018 11:05:27 Asia/Kolkata] PHP Notice:  Undefined index: userimage in /home/jlodaindia/public_html/jloda/edit_user_profile.php on line 687
+[08-Oct-2018 11:05:27 Asia/Kolkata] PHP Notice:  Undefined index: userimage in /home/jlodaindia/public_html/jloda/edit_user_profile.php on line 695
+[08-Oct-2018 11:05:27 Asia/Kolkata] PHP Notice:  Undefined index: userimage in /home/jlodaindia/public_html/jloda/edit_user_profile.php on line 695
+[08-Oct-2018 11:05:27 Asia/Kolkata] PHP Notice:  Undefined index: userphone in /home/jlodaindia/public_html/jloda/edit_user_profile.php on line 771
+[08-Oct-2018 11:06:56 Asia/Kolkata] PHP Notice:  Undefined index: userimage in /home/jlodaindia/public_html/jloda/user_profile.php on line 655
+[08-Oct-2018 11:06:56 Asia/Kolkata] PHP Notice:  Undefined index: userimage in /home/jlodaindia/public_html/jloda/user_profile.php on line 655
+[08-Oct-2018 11:06:56 Asia/Kolkata] PHP Notice:  Undefined index: userphone in /home/jlodaindia/public_html/jloda/user_profile.php on line 734
